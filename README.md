@@ -5,3 +5,6 @@ hửm, chỉ thêm token chứ chả có gì đâu
 - Tất cả chỗ plugin kia đã test kĩ trước khi đưa lên đây, cảm ơn
 
 - Ơ đm hình như thừa cái MP3Voice, thôi xoá z :((
+
+-Update: Remove resize, x10 timeout
+-Upcoming: Add nameMapping for path.join | Some plugins
